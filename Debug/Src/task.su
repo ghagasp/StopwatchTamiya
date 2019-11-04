@@ -1,0 +1,7 @@
+task.c:39:6:tombolrunstop	8	static
+task.c:76:6:tombolreset	8	static
+task.c:121:6:sensor1	48	static
+task.c:187:6:sensor2	48	static
+task.c:252:6:sensor3	48	static
+task.c:317:6:kirim_lcd	80	static
+task.c:355:6:HAL_TIM_PeriodElapsedCallback	8	static
